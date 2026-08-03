@@ -36,3 +36,11 @@ Page 1: Playlist: MAU | TotalRevenue | ARPU | ChurnRate | SkipRate | DAU_MAU_Rat
 Page 2: User : TotalUsers by AgeGroup + genderDonut: TotalSessions by subscription_tierBar Chart: Top 10 genre_name by TotalRevenueTable: Top 20 tracks - title, artist_name, TotalSessions, SkipRate
 
 Page 3: Engagement : SessionHour vs day_name with TotalSessionsColumn Chart: AvgSessionLength by device_typeDonut: TotalSessions by SessionQuality - Skip vs Full PlayLine Chart: SkipRate by SessionDate - 30 day trendSlicers: country_name, device_type, subscription_tier, genre_name
+
+Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/NandiniSatghare09/Music_Analysis/blob/main/Screenshot%202026-08-03%20123914.png)
+
+
+
+
